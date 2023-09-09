@@ -13,10 +13,6 @@ repository = "https://github.com/ogham/exa"
 version = "0.10.1-dockerize-for-aarch64"
 
 
-[[bin]]
-name = "exa"
-
-
 [dependencies]
 ansi_term = "0.12"
 glob = "0.3"
