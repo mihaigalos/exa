@@ -10,7 +10,7 @@ readme = "README.md"
 homepage = "https://the.exa.website/"
 license = "MIT"
 repository = "https://github.com/ogham/exa"
-version = "0.10.1"
+version = "0.10.1-dockerize-for-aarch64"
 
 
 [[bin]]
